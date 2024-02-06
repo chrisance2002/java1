@@ -7,6 +7,6 @@ public class sample
         int x= a+b;
         int y= a-b;
         System.out.println("Sum: "+x);
-        System.out.println("Diff: "+x);
+        System.out.println("Diff: "+y);
     }    
 }
